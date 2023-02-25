@@ -1,1 +1,1 @@
-This is my Newsapp
+This is my Newsapp.
